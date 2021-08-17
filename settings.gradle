@@ -1,3 +1,0 @@
-rootProject.name = "Illegal Emojis"
-include ':app'
-include ':nativetemplates'
