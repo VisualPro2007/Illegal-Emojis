@@ -1,5 +1,5 @@
 # Illegal-Emojis
-My Debug version of Illegal Emojis that is on the Google Play Store
+My Release version of Illegal Emojis that is on the Google Play Store
 
 Created by Mihalcea Cristian Stefan - 17.08.2021
 
